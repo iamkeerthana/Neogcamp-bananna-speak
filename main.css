@@ -16,7 +16,7 @@ h2 {
 }
 p {
     background-color: var(--primary-color);
-    padding: 7px;
+    padding: 8px;
     letter-spacing: normal;
     word-spacing: normal;
     font-family: 'Kalam', cursive;
@@ -37,15 +37,15 @@ h1 {
     display: block;
     min-height: 20vh;
     width: 95%;
-    margin:5px;
+    margin: 7px;
     padding: 1rem;
  }
 #output {
     display: block;
-    border:1px solid black;
+    border:2px solid black;
     height: 20vh;
     width: 95%;
-    margin:5px;
+    margin: 5px;
     margin-bottom: 0rem;
     padding: 1rem;
  }
