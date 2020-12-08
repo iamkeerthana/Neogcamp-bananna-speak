@@ -16,9 +16,9 @@ h2 {
 }
 p {
     background-color: var(--primary-color);
-    padding: 8px;
-    letter-spacing: normal;
-    word-spacing: normal;
+    padding: 10px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
     font-family: 'Kalam', cursive;
     color: var(--black);
     font-size: 15px;
@@ -28,7 +28,7 @@ h1 {
    background-color: var(--primary-color);
    color: var(--black);
    text-align: center;
-   padding: 0.5rem;
+   padding: 1rem;
    margin: 0;
    font-size: 2rem;
    font-family: 'Kalam', cursive;
@@ -45,7 +45,7 @@ h1 {
     border:2px solid black;
     height: 20vh;
     width: 95%;
-    margin: 5px;
+    margin: 7px;
     margin-bottom: 0rem;
     padding: 1rem;
  }
@@ -57,7 +57,7 @@ div {
 button {
     margin: 1rem;
     background-color: var(--primary-color);
-    padding: 4px;
+    padding: 5px;
     font-family: 'Kalam', cursive;
     font-size: 20px;
  }
