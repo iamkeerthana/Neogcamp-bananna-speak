@@ -11,12 +11,12 @@ h2 {
     background-color: var(--primary-color);
     text-align: center;
     color: var(--black);
-    font-size: 20px;
-    font-weight: bold;
+    font-size: 29px;
+    font-weight: bold;`
 }
 p {
     background-color: var(--primary-color);
-    padding: 10px;
+    padding: 17px;
     letter-spacing: 1px;
     word-spacing: 1px;
     font-family: 'Kalam', cursive;
